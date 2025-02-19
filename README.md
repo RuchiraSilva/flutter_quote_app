@@ -10,14 +10,10 @@ A simple Flutter application that fetches and displays random quotes when the us
 ## Screenshots
 
 ### Initial Screen
-```
 ![Initial Screen](screenshots/initial_screen.jpg)
-```
 
 ### Quote Displayed
-```
 ![Quote Displayed](screenshots/quote_displayed_screen.jpg)
-```
 
 ## Installation
 1. Clone the repository:
