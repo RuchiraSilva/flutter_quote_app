@@ -1,16 +1,47 @@
-# quotes_app
+# Quote App
 
-A new Flutter project.
+A simple Flutter application that fetches and displays random quotes when the user clicks the **Get Quote!** button. This project was created to practice Flutter app development and working with APIs.
 
-## Getting Started
+## Features
+- Fetches a random quote from an API.
+- Displays the quote on the screen.
+- Simple and clean UI.
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+### Initial Screen
+```
+![Initial Screen](screenshots/initial_screen.jpg)
+```
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Quote Displayed
+```
+![Quote Displayed](screenshots/quote_displayed_screen.jpg)
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/flutter-quote-app.git
+   ```
+2. Navigate to the project directory:
+   ```sh
+   cd flutter-quote-app
+   ```
+3. Install dependencies:
+   ```sh
+   flutter pub get
+   ```
+4. Run the app:
+   ```sh
+   flutter run
+   ```
+
+## API Usage
+This app fetches quotes from the [Quotable API](http://api.quotable.io/random?tags=technology%2Cfamous-quotes). Make sure you have an active internet connection.
+
+## Technologies Used
+- Flutter
+- Dart
+- REST API
+
