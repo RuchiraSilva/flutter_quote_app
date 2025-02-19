@@ -11,7 +11,7 @@ A simple Flutter application that fetches and displays random quotes when the us
 
 ### Initial Screen
 ```
-![Initial Screen](screenshots/initial_screen.jpg)
+![Initial Screen](https://raw.githubusercontent.com/RuchiraSilva/flutter-quote-app/main/screenshots/initial_screen.jpg)
 ```
 
 ### Quote Displayed
